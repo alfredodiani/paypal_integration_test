@@ -1,0 +1,24 @@
+#cart {
+    width: 100%;
+      border: 1px solid #ccc;
+      padding: 10px;
+  }
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
