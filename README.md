@@ -9,5 +9,5 @@ Using sandbox accounts and sandbox environment.
 2. Replace `test` in `index.html` with your app's client-id
 3. Run `npm install`
 4. Run `npm start`
-5. Access http://localhost:8888
+5. Access http://localhost:3000
 6. Use sandbox accounts for testing
